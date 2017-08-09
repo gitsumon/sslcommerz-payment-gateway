@@ -1,2 +1,2 @@
 # sslcommerz-payment-gateway
-Payment gateway integration using sslcommerz API
+Wordpress woocommerce plugin for payment gateway integration using sslcommerz API
